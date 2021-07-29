@@ -1,0 +1,74 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+/*  Intro-section */
+.bg-Honada-CBR{
+    background-color: rgb(2, 2, 54);
+    width: 100%;
+    display: flex;
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-bottom: 10%;
+    color: crimson;
+
+    
+}
+.intro-item{
+    width: 80%;
+    padding-right: 10%;
+    
+}
+.intro-item img{
+    width: 70%;
+}
+
+.btn-Honda-CBR{
+    
+    width: 168px;
+    height: 44px;
+    background-color: #e64922;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #FFFFFF;
+    margin: 0px 10px;
+    padding: 10px;
+}
+    /* Grascale-image */
+.grayscale-image{
+    width: 288px;
+    height: 243px;
+    filter: grayscale(100%);
+}
+.text-orange{
+    color: #E76F51;;
+}
+.col img{
+    width: 149px;
+    height: 149px;
+    
+}
+    Icon-
+.fa-star{
+    font-size: 18px;
+    
+}
+.fa-star.filled{
+    color: #E77C40;
+}
+.fa-star.empty{
+    color: gainsboro;
+}
+.client-info h5{
+    color: #23A6F0;
+    font-weight: 700;
+}
+.container-faq img{
+    width: 431.2px;
+    height: 423.5px;
+}
+.offcanvas-section{
+    background-color: rgb(4, 4, 82);
+    color: crimson;
+    padding: 5%;
+}
